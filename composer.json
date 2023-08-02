@@ -1,0 +1,19 @@
+{
+    "name": "surajshindeappcart/project",
+    "description": "this is test project",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Surajshindeappcart\\Project\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "surajshindeappcart",
+            "email": "suraj@appcartsystems.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

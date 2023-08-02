@@ -1,7 +1,7 @@
 <?php
 
 Route::get('project',function(){
-    return "project";
+    return "project form";
 });
 
 ?>
